@@ -221,4 +221,21 @@ A wedding is more than an event — it is a collection of ceremonies, people and
 
 ---
 
+## 🙌 Acknowledgements
+
+- [Google AI Studio](https://aistudio.google.com/apps) – AI-powered development platform used during project development.
+- The open-source developer community for the tools and libraries used in this project.
+
+---
+
+## 👩‍💻 Author
+
+**Oishee Biswas**
+
+GitHub: [@oishee17](https://github.com/oishee17)
+
+---
+
+⭐ If you find this project interesting, consider giving the repository a star!
+
 **Built with ❤️ to make wedding planning smarter, simpler and more memorable.**
