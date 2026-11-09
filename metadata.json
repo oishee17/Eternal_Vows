@@ -1,0 +1,6 @@
+{
+  "name": "Eternal Vows - AI Wedding & Event Management",
+  "description": "All-in-one AI wedding management platform with intelligent planning, collaborative digital album with QR access, and vendor bidding marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
